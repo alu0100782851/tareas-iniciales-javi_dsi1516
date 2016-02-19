@@ -1,4 +1,4 @@
-**\-Practica 1 de Sistemas y Tecnologías Web\-**
+**\-Practica 1 de Desarrollo de Sistemas Informáticos\-**
 =======================
 
 
