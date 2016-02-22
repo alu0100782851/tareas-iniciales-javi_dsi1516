@@ -5,4 +5,11 @@ El desarrollo de esta practica ha consistido en la realizacion de un tutorial so
 
 Estos programas son: Github, Pandoc, Atom, Nodejs y Express.
 
-El enlace donde se encuentra el tutorial de instalacion de cada programa es el siguiente: http://alu0100782851.github.io/tareas-iniciales-javi_dsi1516/TutorialesMoises/Tutoriales.html
+Enlaces: 
+[Tutorial] (http://alu0100782851.github.io/tareas-iniciales-javi_dsi1516/TutorialesMoises/Tutoriales.html)
+
+[Página personal] (http://alu0100782851.github.io/)
+
+[Repositorio Personal] (https://github.com/alu0100782851/tareas-iniciales-javi_dsi1516)
+
+[Página de la práctica] (http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-javi_dsi1516/TutorialesMoises/index.html)
