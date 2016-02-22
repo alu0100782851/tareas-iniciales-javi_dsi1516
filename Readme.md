@@ -5,11 +5,11 @@ En esta ocasion la practica ha consistido en la realizacion de diferentes tutori
 
 ----------
 
-[Página personal] (http://alu0100505009.github.io/)
+[Página personal] (http://alu0100782851.github.io/)
 
-[Repositorio Personal] (https://github.com/alu0100505009/tareas-iniciales-javi_dsi1516)
+[Repositorio Personal] (https://github.com/alu0100782851/tareas-iniciales-javi_dsi1516)
 
-[Página de la práctica] (http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-javi_dsi1516/TutorialesJavier/index.html)
+[Página de la práctica] (http://ull-esit-gradoii-dsi.github.io/tareas-iniciales-javi_dsi1516/TutorialesMoises/index.html)
 
 
 
